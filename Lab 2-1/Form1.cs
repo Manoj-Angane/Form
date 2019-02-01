@@ -16,5 +16,20 @@ namespace Lab_2_1
         {
             InitializeComponent();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lengthLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void orderLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
